@@ -1,4 +1,4 @@
-*** MY REST API APP - MAXENCE QUINET ***
+*** MY REST API APP ***
 
 My application allows to link the data of a database to my application, and thus, using a get / post / delete request etc ... to act on this database from the application.
 
