@@ -15,3 +15,5 @@ delete a city in DB with : /city + json city name information file
 
 PUT 
 update a city in DB with : /city/cityName +json city informations file ( with your update )
+
+You can find more informations of these request with my apidoc documentation. To find it, just put /apidoc at the end of the URL
